@@ -4,26 +4,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=regis066" alt="regis066" /></a> </p>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-- 🔭 I’m currently working on **Mobile Dev**
-
-- 🌱 I’m currently learning **Vue3 js , React Native**
-
-- 💬 Ask me about **React, Vue3, Next js**
 
 - 📫 How to reach me **mugisharegis72@gmail.com**
 
-- ⚡ Fun fact **I think i am funny, cheering and genuine.**
+- ⚡ Fun fact **I think I am funny, cheering and genuine.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.to.regis066" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to.regis066" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:21091002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21091002" height="30" width="40" /></a>
-<a href="https://fb.com/mugisha regis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mugisha regis" height="30" width="40" /></a>
-<a href="https://instagram.com/regis6th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="regis6th" height="30" width="40" /></a>
-<a href="https://dribbble.com/regis066" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="regis066" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mugisha regis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mugisha regis" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/regis066" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="regis066" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/regis066" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="regis066" height="30" width="40" /></a>
+<a href="https://dev.to/regis066" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to.regis066" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
