@@ -1,5 +1,9 @@
 <h2 align="left">Hi 👋!  My name is Regis Mugisha and I'm a Web Developer, from Rwanda.</h2>
 
+### Contact Me
+
+You can reach me via email at [mugisharegis72@gmail.com](mailto:mugisharegis72@gmail.com).
+
 ###
 
 <div align="center">
